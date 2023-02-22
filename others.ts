@@ -5,6 +5,23 @@ typescript is superset of javascript, static typing
 typescript课程
 https://www.youtube.com/watch?v=GinkGJZBHIY&t=8798s
 
+https://mattshelley.dev/export-vs-export-default/#:~:text=If%20a%20module's%20primary%20purpose,things%20to%20export%20%5B4%5D.
+export (named export) vs export default
+
+// module.js
+export const value = 123
+
+// another-module.js
+import { value } from './module'
+
+------
+// module.js
+const value = 123
+export default value
+
+// another-module.js
+import value from './module'
+
 
 --------------------------------------------------------------
 html/css
