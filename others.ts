@@ -28,6 +28,22 @@ html/css
 https://www.youtube.com/watch?v=-yqlP0HWP94
 https://hiskio.com/en/courses/529/about?s=tcTailwind
 
+HTML Responsive Web Design
+https://www.w3schools.com/html/html_responsive.asp
+
+Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, 
+to make it look good on all devices (desktops, tablets, and phones):
+
+Setting The Viewport
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+Responsive Images
+Responsive Text Size
+Media Queries: Media Queries能在不同的条件下使用不同的样式，使用页面达到不同的渲染效果
+  https://juejin.cn/post/6844903450078248973
+
+Bootstrap
+Another popular CSS framework is Bootstrap. Bootstrap uses HTML, CSS and jQuery to make responsive web pages
+  
 
 --------------------------------------------------------------
 webpack5
