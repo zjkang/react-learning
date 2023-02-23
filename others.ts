@@ -63,6 +63,7 @@ https://hiskio.com/en/courses/529/about?s=tcTailwind
 
 HTML Responsive Web Design
 https://www.w3schools.com/html/html_responsive.asp
+https://lavas-project.github.io/pwa-book/chapter02/5-responsive-design.html
 
 Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, 
 to make it look good on all devices (desktops, tablets, and phones):
