@@ -49,6 +49,10 @@ class Greeting extends React.Component {
 7. What are Pure Components? 
 https://juejin.cn/post/6844904002652471309
 https://juejin.cn/post/6844903480369512455
+React.memo() is a higher-order component that we can use to wrap components that 
+we do not want to re-render unless props within them change
+useMemo() is a React Hook that we can use to wrap functions within a component. 
+We can use this to ensure that the values within that function are re-computed only when one of its dependencies change
 
 React.PureComponent is exactly the same as React.Component except that it handles the shouldComponentUpdate() method for you. 
 When props or state changes, PureComponent will do a shallow comparison on both props and state. 
